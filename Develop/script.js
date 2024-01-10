@@ -40,7 +40,7 @@ var playGame = function () {
 	};
 
 	// TODO: Use the alert() method to display current 'wins', 'losses', and 'ties'
-	alert(wins +=i, Ties +=i, Loses +=i);
+	alert("wins: "+wins + ", Ties: "+ties +", Losses: "+losses);;
 
 	// TODO: Use the confirm() method to ask user to play again and collect the response in a variable named 'playAgain'
 	var playAgain = confirm("Do you want  to play again?");
